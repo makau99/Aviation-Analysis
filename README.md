@@ -45,5 +45,7 @@ Predict low risk areas with good profits.
 
 ## For more information
 Review the [Jupyter Notebook](aviationdata.ipynb)
+
 Review the [presentation](aviationppt.pptx)
+
 View my [Tableau Dashboard](https://public.tableau.com/shared/B42CTDDSW?:display_count=n&:origin=viz_share_link)
