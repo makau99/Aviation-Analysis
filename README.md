@@ -18,11 +18,11 @@ leading into the accidents listed.
 This project uses visualization to gain insight into the effect these different
 factors have on the accident rates. 
 ## Results and conclusions
-![Reciprocating engines have high accident rates](images/engtype.png)
+[Reciprocating engines have high accident rates](images/engtype.png)
 
-![U.S.A. is a high-risk aviation area as per the high number of accidents recorded there.](images/distribution.png)
+[U.S.A. is a high-risk aviation area as per the high number of accidents recorded there.](images/distribution.png)
 
-![CESSNA and piper engines have very high failure rates.](enginemakes.png)
+[CESSNA and piper engines have very high failure rates.](enginemakes.png)
 
 ## Recommendations
 Investment into engine manufacturers with lower accident rates such as Maule and BELL instead of ones with higher rates e.g. Piper, Bell and Cessna.
