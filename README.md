@@ -1,7 +1,7 @@
 # Aviation-Analysis
 Author: [Evans Makau](makauevans01@gmail.com)
 ## Overview
-This project analyzed aviation data collected over a span of a couple of years. The analysis shows the effect different factors have on the accident rates and gives recommendations on investing in the industry.
+This project analyzed United States aviation data collected over a span of a couple of years. The analysis shows the effect different factors have on the accident rates and gives recommendations on investing in the industry.
 ## Business problem
 We aim to figure out:
 Aircraft manufacturers to invest in.
